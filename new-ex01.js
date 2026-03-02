@@ -1,0 +1,1 @@
+const status = estoque > 0 ? 'Disponivel' : 'Esgotado';
